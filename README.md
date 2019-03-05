@@ -1,6 +1,6 @@
 # Thinking-on-These-Things
 A personal writing project about the topics in the book 'Think on these things' by J. Krishnamurti 
-Goodreads Link: https://www.goodreads.com/book/show/13470.Think_on_These_Things?from_search=true 
+https://www.goodreads.com/book/show/13470.Think_on_These_Things?from_search=true 
 
 This is a personal writing project cum sincere study of the 'things' which J krishnamurti wants every seeker to think about.
 Along with that it is also a test of Will. That whether i am capable of taking such a big initiative and take it towards the end.
