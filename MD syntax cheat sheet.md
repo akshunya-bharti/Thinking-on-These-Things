@@ -27,4 +27,4 @@
 
 [click here to open google](www.google.com)
 
-![image](https://unsplash.com/photos/ITzzbdwnCvY)
+![GitHub Logo](/images/logo.png)
